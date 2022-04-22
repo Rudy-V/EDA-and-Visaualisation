@@ -1,7 +1,5 @@
-This project is an EDA of South Africa's lotto results.
+This project was done for my own practice and learning. The goal of this project is to give an insight into the statistics of the past 20 years of results for the national lottery results.
 
-Sourcing data:
-The data is generated through webscrapping and gets the most recent results and adds it to the csv file.
+The data set was sourced through web scrapping from an online archive. I used relevant data cleaning and conversions to be usable in the EDA.
 
-EDA:
-This explores the data and visualises the information as needed.
+This project uses modern data analysis techniques and libraries. At the end of the project there is a write-up with the discoveries made in this project.
